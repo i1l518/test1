@@ -25,3 +25,4 @@ git push origin 브랜치 명
 
 rm -r .git -> init 지우기
 rm -rf .git
+asdf
